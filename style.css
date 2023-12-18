@@ -137,6 +137,9 @@ aside {
 
 section {
   padding: 20px;
+  margin-bottom: 100px;
+  color: white;
+  text-align: center;
 }
 
 footer {
